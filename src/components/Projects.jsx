@@ -27,26 +27,31 @@ const Projects = () => {
       title: "Movistar Chile",
       description: "E-commerce con Magento 2",
       imgUrl: promovistarchile,
+      urlPage: "https://ww2.movistar.cl/"
     },
     {
       title: "Movistar Peru",
       description: "E-commerce con Magento 2",
       imgUrl: promovistarperu,
+      urlPage: "https://www.movistar.com.pe/"
     },
     {
       title: "Afosa",
       description: "E-commerce con Magento 2",
       imgUrl: proafosa,
+      urlPage: "https://www.afosa.com.mx/"
     },
     {
       title: "SyD",
       description: "E-commerce con Magento 2",
       imgUrl: prosyd,
+      urlPage: "https://www.syd.com.mx/"
     },
     {
       title: "Warriors Online",
       description: "Landing Page",
       imgUrl: prowarriors,
+      urlPage: "https://warriorsonline.mx/"
     },
   ];
 

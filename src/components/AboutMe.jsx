@@ -3,7 +3,7 @@ import headerImg from "../assets/img/LogoFX-about.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 import navIcon1 from "../assets/img/nav-icon1.svg";
-import navIcon2 from "../assets/img/nav-icon2.svg";
+import navIcon2 from "../assets/img/github.png";
 import navIcon3 from "../assets/img/nav-icon3.svg";
 import { HashLink } from "react-router-hash-link";
 
@@ -43,13 +43,13 @@ function AboutMe() {
                   </span>
                   <span className="navbar-text justify-content-center mt-4">
                   <div className="social-icon">
-                    <a href="#" className="mr-2">
+                    <a href="https://www.linkedin.com/in/fernando-alvarez-aaa3b7177" className="mr-2">
                       <img src={navIcon1} alt="" />
                     </a>
-                    <a href="#">
+                    <a href="https://github.com/FernandoFxx">
                       <img src={navIcon2} alt="" />
                     </a>
-                    <a href="#">
+                    <a href="https://www.instagram.com/fernandoferxx/">
                       <img src={navIcon3} alt="" />
                     </a>
                   </div>
